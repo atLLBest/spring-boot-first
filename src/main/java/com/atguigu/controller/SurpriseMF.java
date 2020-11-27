@@ -9,5 +9,6 @@ public class SurpriseMF {
     public static void main(String[] args) {
         System.out.println("Surprise Mather fucker");
         System.out.println("dev也来整一下");
+        System.out.println("啥？？？？？？？");
     }
 }
