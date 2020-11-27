@@ -8,5 +8,6 @@ package com.atguigu.controller;
 public class SurpriseMF {
     public static void main(String[] args) {
         System.out.println("Surprise Mather fucker");
+        System.out.println("啥？？？？？？？");
     }
 }
